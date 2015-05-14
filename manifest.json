@@ -12,8 +12,8 @@
   },
 
   "background": {
-    "page": "src/bg/background.html",
-    "persistent": true
+    "scripts": ["js/bg.js"],
+    "persistent": false
   },
 
   "permissions": [
@@ -26,7 +26,7 @@
   "content_scripts": [
     {
       "matches": ["http://www.facebook.com/*", "https://www.facebook.com/*"],
-      "js": ["no.js"]
+      "js": ["js/no.js"]
     }
   ],
 
