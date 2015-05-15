@@ -1,5 +1,5 @@
 chrome.tabs.onUpdated.addListener(function(id, info, tab){
-	var x = "profile.php?id=100009427066396";
+	var x = "reeves.schraner";
     if(tab.url.toLowerCase().indexOf("facebook.com") > -1){
         chrome.pageAction.show(tab.id);
 
