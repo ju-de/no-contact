@@ -31,7 +31,7 @@
   ],
 
   "page_action":{
-    "default_title": "No Contact",
+    "default_title": "no-contact",
     "default_popup": "settings.html",
     "default_icon": "icons/icon19.png"
   }
