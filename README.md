@@ -8,8 +8,8 @@ Sometimes, unfollow just doesn't do the trick.
 
 no-contact is a Chrome extension to help you go through with going no-contact on Facebook without having to unfriend. Like ripping off a bandaid, so you can finally have some peace of mind.
 
+###Tear free
 * no more "just checking up"
 * no more stumble upons from mutual friend posts
-* tear free
 * no nasty knots
 * and shiny hair too
