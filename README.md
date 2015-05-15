@@ -1,9 +1,15 @@
 #no-contact
 
-###Stay friends without being friends
-
-Sometimes, unfollow just doesn't do the trick. But maybe you're not quite ready to unfriend yet.
-
 ###It happens
 
-no-contact is a Chrome extension to help you go through with going no-contact on Facebook. Like ripping off a bandaid, so you can finally have some peace of mind.
+Sometimes, unfollow just doesn't do the trick.
+
+###Stay friends without the hassle
+
+no-contact is a Chrome extension to help you go through with going no-contact on Facebook without having to unfriend. Like ripping off a bandaid, so you can finally have some peace of mind.
+
+* no more "just checking up"
+* no more stumble upons from mutual friend posts
+* tear free
+* no nasty knots
+* and shiny hair too
