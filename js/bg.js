@@ -1,7 +1,7 @@
 /* this one redirects */
 chrome.tabs.onUpdated.addListener(function(id, info, tab){
 
-	var x = "joobify";
+	var x = "adskfjlad";
 
     if(tab.url.toLowerCase().indexOf("facebook.com") > -1){
         chrome.pageAction.show(tab.id);
